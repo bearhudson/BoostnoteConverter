@@ -20,4 +20,3 @@ for file in files:
             except KeyError:
                 pass
             new_file.close()
-cd
