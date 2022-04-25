@@ -6,9 +6,15 @@
 
 Boostnote ate my notes and puked them behind a paywall screen.
 
-Make sure you have rich installed
+Make sure you have rich et all. installed
 
 ```bash
-pip -i rich
+pip install rich traitlets prompt-toolkit pickleshare decorator backcall
+```
+
+Run from command line:
+
+```bash
+./main.py
 ```
 

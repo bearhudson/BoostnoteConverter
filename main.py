@@ -1,3 +1,5 @@
+#!/usr/bin/python3
+
 import json
 from rich.console import Console
 from rich.markdown import Markdown
